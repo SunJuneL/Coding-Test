@@ -3,7 +3,7 @@
 </br>
 
 ## 백준(BOJ)
-- [(BOJ-31231) 마카롱카마](./BOJ-31231/README.md)</br>
+- [(BOJ-31231) 마카롱카마](BOJ/BOJ-31231)</br>
 </br>
 
 ## 프로그래머스(Programmers)

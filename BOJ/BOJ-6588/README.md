@@ -99,10 +99,6 @@ func goldbach(_ n: Int) -> String {
     - "소수"에 관련된 문제의 경우 꽤나 유용하게 사용할 수 있다는 생각이 들어, 꼭 기억하는 것이 좋아보인다.<br/>
 <br/>
 
---- 
-푸는데 참고한 참고 자료: https://korean-otter.tistory.com/51<br/>
-<br/>
-
 ---
 ### 시험한 테스트 케이스
 <br/>
@@ -122,4 +118,8 @@ func goldbach(_ n: Int) -> String {
         20 = 3 + 17
         42 = 5 + 37
         ```
+<br/>
+
+--- 
+푸는데 참고한 참고 자료: https://korean-otter.tistory.com/51<br/>
 <br/>

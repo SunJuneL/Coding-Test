@@ -46,6 +46,7 @@ void goldbach(int n) {
     printf("Goldbach's conjecture is wrong.\n");
 }
 
+// 정답을 출력할 함수
 void answer() {
     while (true) {
         // 테스트케이스로 값 n이 입력됨

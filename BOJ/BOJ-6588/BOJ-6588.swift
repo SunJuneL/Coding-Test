@@ -31,7 +31,7 @@ func goldbach(_ n: Int) -> String {
     // n의 절반
     let limit = n / 2
     
-    // 3부터 limit까지 값 i와 n에서 i를 뺀 값 j를 소수인지 아닌지 확인해서 둘 다 소수이면 String을 리턴함
+    // 3부터 limit까지의 값 i와, n에서 i를 뺀 값 j를 소수인지 확인하여, 둘 다 소수라면 해당 식을 리턴
     for i in 3 ... stride(from: 3, through: limit, by: 2) {
         let j = n - i
         if isPrimeNumber[i] && isPrimeNumber[j] {
@@ -39,7 +39,7 @@ func goldbach(_ n: Int) -> String {
         }
     }
     
-    // 골드바흐의 추측이 틀렸다면 String 리턴
+    // 골드바흐의 추측이 틀렸다면, 틀렸다는 문구 String을 리턴
     return "Goldbach's conjecture is wrong."
 }
 

@@ -82,12 +82,13 @@ for floor in 1 ... k {
  - 모든 층의 1호에 사는 사람들의 인원 수는 1명이다.<br/>
     - `apartment[a][1] = apartment[a - 1][1] = ... = apartment[0][1] = 1`<br/>
  - `a`층 `b`호에 사는 사람들의 인원 수는 `a - 1`층의 `b`호에 사는 사람들의 인원 수와 `a`층 `b - 1`호에 사는 사람들의 합이다.<br/>
-    - `apartment[a][b - 2] = apartment[a - 1][1] + ... + apartment[a - 1][b - 2]`이다.<br/>
-    ```Swift
-    apartment[a][b - 1] = apartment[a - 1][1] + ... + apartment[a - 1][b - 2] + apartment[a - 1][b - 1]
-                        = (apartment[a - 1][1] + ... + apartment[a - 1][b - 2]) + apartment[a - 1][b - 1]
-                        = apartment[a][b - 2] + apartment[a - 1][b - 1]
-    ```
+    - 아래 식을 통해서 위 명제가 참임을 알 수 있다.
+      ```Swift
+      apartment[a][b - 2] = apartment[a - 1][1] + ... + apartment[a - 1][b - 2]
+      apartment[a][b - 1] = apartment[a - 1][1] + ... + apartment[a - 1][b - 2] + apartment[a - 1][b - 1]
+                          = (apartment[a - 1][1] + ... + apartment[a - 1][b - 2]) + apartment[a - 1][b - 1]
+                          = apartment[a][b - 2] + apartment[a - 1][b - 1]
+       ```
 <br/>
 
 ---

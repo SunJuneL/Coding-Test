@@ -16,7 +16,7 @@
 - [(BOJ-10250) ACM 호텔](BOJ/BOJ-10250)</br>
 - [(BOJ-10773) 제로](BOJ/BOJ-10773)</br>
 - [(BOJ-10817) 세 수](BOJ/BOJ-10817)</br>
-- [(BOJ-10866) 덱(Deque)](BOJ/BOJ-10866)    //    [(BOJ-10866 번외) 덱(Deque)](BOJ/BOJ-10866_번외)</br>
+- [(BOJ-10866) 덱(Deque)](BOJ/BOJ-10866)    //    [(BOJ-10866 번외) 덱(Deque)](BOJ/BOJ-10866_Extra)</br>
 - [(BOJ-10870) 피보나치 수 5](BOJ/BOJ-10870)</br>
 - [(BOJ-10872) 팩토리얼](BOJ/BOJ-10872)</br>
 - [(BOJ-14425) 문자열 집합](BOJ/BOJ-14425)</br>

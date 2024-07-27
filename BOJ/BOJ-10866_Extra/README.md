@@ -1,4 +1,4 @@
-# [번외 BOJ 10866 - 덱(Swift)](https://www.acmicpc.net/problem/10866)
+# [번외) BOJ 10866 - 덱(Swift)](https://www.acmicpc.net/problem/10866)
 
 ### 기본 전제<br/>
  - 확장에서는 어떤 타입이든 저장할 수 있는 덱(Deque) 클래스를 선언하고, 사용한다.<br/>

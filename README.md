@@ -3,6 +3,7 @@
 </br>
 
 ## 백준(BOJ)
+- [(BOJ-1158 개선) 요세푸스 문제](BOJ/BOJ-1158_Improve)</br>
 - [(BOJ-2440) 별 찍기 - 3](BOJ/BOJ-2440)</br>
 - [(BOJ-2441) 별 찍기 - 4](BOJ/BOJ-2441)</br>
 - [(BOJ-2475) 검증수](BOJ/BOJ-2475)</br>

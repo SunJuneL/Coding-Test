@@ -75,8 +75,7 @@ while !people.isEmpty {
 <br/>
 
 --- 
-푸는데 참고한 참고 자료:<br/>
-    [다른 사람들의 풀이](https://www.acmicpc.net/source/30781994)<br/>
+푸는데 참고한 참고 자료: 없음.<br/>
 <br/>
 
 ---

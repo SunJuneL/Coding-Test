@@ -4,7 +4,7 @@
 
 ## 백준(BOJ)
 - [(BOJ-1158) 요세푸스 문제](BOJ/BOJ-1158)</br>
-- [(BOJ-1158 개선) 요세푸스 문제](BOJ/BOJ-1158_Improve)</br>
+  - [(BOJ-1158 개선) 요세푸스 문제](BOJ/BOJ-1158_Improve)</br>
 - [(BOJ-2440) 별 찍기 - 3](BOJ/BOJ-2440)</br>
 - [(BOJ-2441) 별 찍기 - 4](BOJ/BOJ-2441)</br>
 - [(BOJ-2475) 검증수](BOJ/BOJ-2475)</br>
@@ -19,9 +19,10 @@
 - [(BOJ-10773) 제로](BOJ/BOJ-10773)</br>
 - [(BOJ-10817) 세 수](BOJ/BOJ-10817)</br>
 - [(BOJ-10866) 덱(Deque)](BOJ/BOJ-10866)</br>
-- [(BOJ-10866 번외) 덱(Deque)](BOJ/BOJ-10866_Extra)</br>
+  - [(BOJ-10866 번외) 덱(Deque)](BOJ/BOJ-10866_Extra)</br>
 - [(BOJ-10870) 피보나치 수 5](BOJ/BOJ-10870)</br>
 - [(BOJ-10872) 팩토리얼](BOJ/BOJ-10872)</br>
+- [(BOJ-11866) 요세푸스 문제 0](BOJ/BOJ-11866)</br>
 - [(BOJ-14425) 문자열 집합](BOJ/BOJ-14425)</br>
 - [(BOJ-14487) 욱제는 효도쟁이야!](BOJ/BOJ-14487)</br>
 - [(BOJ-31231) 마카롱카마](BOJ/BOJ-31231)</br>

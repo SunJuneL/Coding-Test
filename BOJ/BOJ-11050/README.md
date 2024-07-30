@@ -3,7 +3,7 @@
 ### 기본 전제<br/>
  - `N`의 범위는 1 이상 10 이하이며, `K`의 범위는 0 이상 `N` 이하이다.<br/>
  - 이항 계수는 아래와 같다.<br/>
- <img width="338" alt="이항계수" src="https://github.com/user-attachments/assets/e84c4830-f662-484e-ba43-2d924e013c0a">
+   <img width="500" alt="이항계수" src="https://github.com/user-attachments/assets/e84c4830-f662-484e-ba43-2d924e013c0a">
 <br/>
 
 ### 주의 사항<br/>

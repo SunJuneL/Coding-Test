@@ -1,4 +1,4 @@
-# [BOJ 2446 - 별 찍기 9(Swift)](https://www.acmicpc.net/problem/2446)
+# [BOJ 2446 - 별 찍기 - 9(Swift)](https://www.acmicpc.net/problem/2446)
 
 ### 기본 전제<br/>
  - 1 이상 100 이하의 숫자 `N`이 입력된다.<br/>

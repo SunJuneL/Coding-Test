@@ -1,4 +1,4 @@
-# [BOJ 1037 - 약수(Swift)](https://www.acmicpc.net/problem/1037)
+# [(BOJ-1037) 약수(Swift)](https://www.acmicpc.net/problem/1037)
 
 ### 기본 전제<br/>
  - 숫자 `N`의 진짜 약수는 1과 `N`을 제외한 약수이다.<br/>

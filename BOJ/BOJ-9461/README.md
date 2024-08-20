@@ -13,7 +13,7 @@
 <br/>
 
 ### 전략<br/>
-![IMG_0557](https://github.com/user-attachments/assets/375de3ae-968b-47a3-8f5a-fe5303ef3acb)
+<img src = "https://github.com/user-attachments/assets/375de3ae-968b-47a3-8f5a-fe5303ef3acb" width=700, height=400>
  - 예시 사진처럼 정삼각형들이 구성되어, 수열 `P`가 정해짐을 알 수 있다.<br/>
     - 빨간 색 줄: 마지막에서 5번째로 가장 긴 변을 나타낸다.<br/>
     - 파란 색 줄: 가장 마지막 가장 긴 변을 나타낸다.<br/>

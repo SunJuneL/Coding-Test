@@ -5,6 +5,7 @@
 ## 백준(BOJ)
 - [(BOJ-1010) 다리놓기](BOJ/BOJ-1010)</br>
   - [(BOJ-1010 다른 풀이) 다리놓기](BOJ/BOJ-1010)</br>
+- [(BOJ-1026) 보물](BOJ/BOJ-1026)</br>
 - [(BOJ-1037) 약수](BOJ/BOJ-1037)</br>
 - [(BOJ-1158) 요세푸스 문제](BOJ/BOJ-1158)</br>
   - [(BOJ-1158 개선) 요세푸스 문제](BOJ/BOJ-1158_Improve)</br>

@@ -151,9 +151,9 @@ while true {
     [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95]
     Swift.StrideTo<Swift.Int>
     ```
-        - 0부터 시작하기 때문에 0이 포함되어 있으며, 5의 보폭을 갖기 때문에 5의 배수로 나열되어 있다. 또한, 100 미만의 범위이기 때문에 100이 제외되어 있다.<br/>
-        - `Int` 타입들이기 때문에 `stride(from: , to: , by: )`의 결과로 `StrideTo<Swift.Int>`가 나온다.<br/>
-    - `StrideTo<Swift.Int>`는 `Range`로서 `for문`에서 활용할 수 있다.<br/>
+    - 0부터 시작하기 때문에 0이 포함되어 있으며, 5의 보폭을 갖기 때문에 5의 배수로 나열되어 있다. 또한, 100 미만의 범위이기 때문에 100이 제외되어 있다.<br/>
+    - `Int` 타입들이기 때문에 `stride(from: , to: , by: )`의 결과로 `StrideTo<Swift.Int>`가 나온다.<br/>
+        - `StrideTo<Swift.Int>`는 `Range`로서 `for문`에서 활용할 수 있다.<br/>
 
     
 - `stride(from: x, through: y, by: z)`<br/>
@@ -167,9 +167,9 @@ while true {
     [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
     Swift.StrideThrough<Swift.Int>
     ```
-        - 0부터 시작하기 때문에 0이 포함되어 있으며, 5의 보폭을 갖기 때문에 5의 배수로 나열되어 있다. 또한, 100 이하의 범위이기 때문에 100이 포함되어 있다.<br/>
-        - `Int` 타입들이기 때문에 `stride(from: , through: , by: )`의 결과로 `StrideThrough<Swift.Int>`가 나온다.<br/>
-    - `StrideThrough<Swift.Int>`는 `Range`로서 `for문`에서 활용할 수 있다.<br/>
+    - 0부터 시작하기 때문에 0이 포함되어 있으며, 5의 보폭을 갖기 때문에 5의 배수로 나열되어 있다. 또한, 100 이하의 범위이기 때문에 100이 포함되어 있다.<br/>
+    - `Int` 타입들이기 때문에 `stride(from: , through: , by: )`의 결과로 `StrideThrough<Swift.Int>`가 나온다.<br/>
+        - `StrideThrough<Swift.Int>`는 `Range`로서 `for문`에서 활용할 수 있다.<br/>
 <br/>
 
 --- 

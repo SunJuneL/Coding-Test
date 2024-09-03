@@ -1,4 +1,4 @@
-# [(BOJ 2163) 초콜릿 자르기(Swift)](https://www.acmicpc.net/problem/2163)
+# [(BOJ-2163) 초콜릿 자르기(Swift)](https://www.acmicpc.net/problem/2163)
 
 ### 기본 전제<br/>
 - 두 정수 `N`, `M`이 주어진다.<br/>

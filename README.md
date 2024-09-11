@@ -9,6 +9,7 @@
 - [(BOJ-1026) 보물](BOJ/BOJ-1026)</br>
 - [(BOJ-1037) 약수](BOJ/BOJ-1037)</br>
 - [(BOJ-1094) 막대기](BOJ/BOJ-1094)</br>
+  - [(BOJ-1094 개선) 막대기](BOJ/BOJ-1094_Improve)</br>
 - [(BOJ-1158) 요세푸스 문제](BOJ/BOJ-1158)</br>
   - [(BOJ-1158 개선) 요세푸스 문제](BOJ/BOJ-1158_Improve)</br>
 - [(BOJ-1259) 팰린드롬수](BOJ/BOJ-1259)</br>

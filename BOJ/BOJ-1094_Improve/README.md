@@ -1,4 +1,4 @@
-# [[개선](BOJ-1094) 막대기(Swift)](https://www.acmicpc.net/problem/1094)
+# [(BOJ-1094 개선) 막대기(Swift)](https://www.acmicpc.net/problem/1094)
 
 ### 기본 전제<br/>
 - 막대 길이 `X`cm가 주어진다.<br/>
